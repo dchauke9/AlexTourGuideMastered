@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Alex Tour Guide</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Shops and Malls</string>
+    <string name="category_food">Food</string>
+    <string name="alex_food_name">Pap and Vleis ko 9</string>
+    <string name="alex_food_description">Traditional Pap and Vleis is a combination of Mzantsi’s Boerewors and Mealie meal.
+        \nThis is the perfect diversity meal as the ingredients used in this dish represent all the South African cultures.
+        \nMealie Meal also well known as “Pap” in many parts of Mzantsi and is a traditional porridge made from ground maize.
+        \nBoerewors is a traditional Mzantsi sausage.
+        \nThe name Boerewors comes from the Afrikaans words Boer (farmer) Wors (sausage).
+        \nThe meat is served in bowls and the pap on a plate.
+        \nTraditionally, one would pinch off pieces, roll into a ball and dip it into the gravy of the stew.
+        \nThis meal is very filling and super tasty. Dare to eat it with your fingers, its lots of fun!!! Enjoy!!</string>
+    <string name="alex_food_address">22 9th Avenue
+        \nAlexandra
+        \nJohannesburg, 2090</string>
+    <string name="alex_food_phone">Not Provided</string>
+    <string name="alex_food_schedule">10:00–20:00. Everyday.</string>
+    <string name="alex_food_two">From R35-00</string>
+    <string name="food_wako_name">Kota and Slice</string>
+    <string name="food_wako_description">Sphatlo or kota is a South African sandwich popular in the townships of Gauteng.
+        It is made from a hollowed out quarter loaf of bread, filled with a variety of ingredients, often chips, cheese, polony and egg with atjaar.
+        As such, the term may apply to any dish using a quarter loaf of bread, such as bunny chow.</string>
+    <string name="food_wako_address">Around Alex</string>
+    <string name="food_wako_phone">Not Provided</string>
+    <string name="price">From R9-00</string>
+    <string name="food_wako_schedule">Everyday from 09H00</string>
+    <string name="food_rokumonya_name">Mugodu and Skop</string>
+    <string name="food_rokumonya_description">Mogodu is a derivative of tripe served as a stew with hot pap.</string>
+    <string name="food_rokumonya_address">Pan Africa, 4 via Jon Brand</string>
+    <string name="food_rokumonya_phone">Not Provided</string>
+    <string name="food_rokumonya_schedule">Everyday 09H00 - 19H00</string>
+    <string name="food_price_four">From R30-00</string>
+    <string name="info_internet_name">Internet and references</string>
+    <string name="info_internet_description">https://en.wikipedia.org/wiki/Alexandra,_Gauteng</string>
+    <string name="info_konbini_name">GPS coordinates</string>
+    <string name="info_konbini_description">26.1033° S, 28.0976° E</string>
+    <string name="info_transport_name">Alexandra, or Gomora as it is commonly known</string>
+    <string name="info_transport_description"> it is an informal settlement (situated North of Johannesburg) has become one of the best places to go for local entertainment and a real township experience.
+                \nIt is densely packed with shacks and dwellings of all kinds, but as it undergoes the Alexandra Renewal Project, shanties are being replaced with houses; streets, lighting and other infrastructure is improving;
+                extensive greening and clean-up projects are under way; and Alex is shedding its Cinderella image.
+        \nAlexandra, informally abbreviated to Alex, is a township in the Gauteng province of South Africa.
+        \nIt forms part of the city of Johannesburg and is located near the upper-class suburb of Sandton.
+        \nAlexandra is bounded by Wynberg on the west, Marlboro and Kelvin on the north, Kew, Lombardy West and Lombardy East on the south.
+        \nIt is commonly known as "Gomorrah" among local residents.
+        \nAlexandra is one of the poorest urban areas in the country.
+        \nAlexandra is situated on the banks of the Jukskei River.
+        \nIn addition to its original, reasonably well-built houses, it also has a large number (estimated at more than 20,000) of informal dwellings or "shacks".</string>
+    <string name="shop_potato_name">Joe"'"s Lifestyle and Butchery</string>
+    <string name="shop_potato_description">Shisa nyama is a term used in South Africa to refer to an informal braai located near a butchery.
+        In Zulu, the phrase quite literally means, “Burn the meat” and locals will visit a shisa nyama to enjoy freshly spiced meat that has been cooked right then and there.
+        Joe’s Butchery, located on 11th avenue in the township of Alexandra in Johannesburg is one of the best known shisa nyama spots in the city.
+        Joe’s is a veritable institution in Alexandra (or Alex as the locals call it) and has been serving satisfied customers for almost 20 years.
+        Although it closes at 21:00 out of respect for the neighbours, Sundays at Joe’s are filled with braai smoke, great house music and a lively atmosphere.
+        Joe’s Butchery is the kind of place where local businessmen and football players hangout and it is not uncommon to see expensive cars parked out front
+        belonging to the local celebrities who like to return to the township for Sunday lunch.
+        The service is friendly and with a smile and you couldn’t eat something more authentically South African than Joe’s braaied boerwors with pap and spicy chakalaka.
+        Since the day it opened Joe’s has sought to create an atmosphere where people from different backgrounds can come together and enjoy themselves, and on any given Sunday you’ll find they have most certainly succeeded.</string>
+    <string name="shop_potato_address">11th Avenue and Rooseveld St,
+        \nAlexandra,
+        \nJohannesburg,
+        \nGauteng,
+        \n2014</string>
+    <string name="shop_potato_phone">+27 83 623 2770</string>
+    <string name="shop_potato_schedule">Open daily 10:00-21:00</string>
+    <string name="shop_amiami_name">Ferris Road Brewery</string>
+    <string name="shop_amiami_description">Good beers and excellent pizza.</string>
+    <string name="shop_amiami_address">Alexandra, Gauteng</string>
+    <string name="shop_amiami_phone">+27 7-1859-500</string>
+    <string name="shop_amiami_schedule">Mo-Su 10:00–02:00</string>
+    <string name="shop_nakano_name">ALEX MALL</string>
+    <string name="shop_nakano_description">Tenants: Pick n Pay, Shoprite, Roots, Truworths, Identity, Mr Price, Jet, Foschini, Nedbank, Capitec, Studio 88, KFC, Pepkor, Rage, Liquor City, Relay Jeans, Totalsports, Sportscene, Builders Superstore, Edgars Active, Legit, Chicken Licken</string>
+    <string name="shop_nakano_address">Alexandra, Gauteng</string>
+    <string name="shop_nakano_phone">Not Provided</string>
+    <string name="shop_nakano_schedule">Mo-Su 07:00–20:00</string>
+    <string name="shop_kiddy_name">Pan Africa Mall</string>
+    <string name="shop_kiddy_description">Only three years after its successful opening in 2009, this shopping centre is expanding in response to demand from both shoppers and retailers.
+Pan Africa Shopping Centre is part of the Presidential Alexandra Renewal Project. It’s owned by Pan Africa DevCo, a company formed by Tebfin Developments in partnership with local entrepreneurs and the two main taxi associations in Alexandra, being ATA and ARMSTA.
+In a pioneering initiative, the centre was the first of its kind in SA, built with fully integrated public transport. It includes a 50,000sqm taxi facility. It is ideally placed in one of Alexandra’s busiest hubs, corner of 3rd Avenue and Watt Street. It is a natural transport node on the historic site formerly known as Pan Africa.
+Having successfully completed the leasing of the mall’s 60 original stores, including Alexandra’s first Pick n Pay, specialist retail leasing company Retail Network Services was called upon to lease the new extension.
+The groundbreaking shopping centre continues to report increased turnovers for tenants. Pedestrian and taxi traffic are also showing an upward trend. More than 50,000 people use the area daily, as well as some 1,500 taxis.</string>
+    <string name="shop_kiddy_address">Corner Watt and Third Ave, Alexandra, South Africa</string>
+    <string name="shop_kiddy_phone">27 11 440 3271</string>
+    <string name="shop_kiddy_schedule">Mo-Su 06:30–22:00</string>
+    <string name="shop_daiso_name">Capita Land Alexandra</string>
+    <string name="shop_daiso_description">Alexandra Plaza is dual anchored by Shoprite and Superspar.
+        Other national tenants include FNB, Capitec Bank, Standard Bank,
+        African Bank, Absa Bank, Beaver Canoe, Webbers, Jet Mart, Liquor City, Joshua Doore,
+        Rage, Pep, Ackermans, Jam Clothing, Fashion Freak,
+        CB Stores and KFC.</string>
+    <string name="shop_daiso_address">Alexandra Plaza
+Cnr 3rd Street and 1st Avenue
+Wynberg
+Gauteng</string>
+    <string name="alex_heri_name">Alexandra Heritage Centre</string>
+    <string name="alex_heri_description">The humble abode in Alexandra township,
+        which Nelson Mandela occupied when he first came to Joburg during the early 1940s,
+        is being transformed into a heritage attraction site.
+        The township is home to over 400 000 people, and has also been the home of jazz maestro Hugh Masekela.</string>
+    <string name="alex_heri_address">4694 Hofmeyr St, Alexandra, 2014</string>
+    <string name="alex_heri_phone">Not Provided</string>
+    <string name="alex_heri_schedule">Everyday.</string>
+    <string name="alex_heri_price">Not Provided</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_nav__drawer">Nav_Drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+</resources>
